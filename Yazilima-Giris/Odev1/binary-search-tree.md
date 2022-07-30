@@ -1,5 +1,5 @@
 #Binary Search Tree
-[7, 5, 1, 8, 3, 6, 0, 9, 4, 2]  dizisiniz Binary-Search-Tree aşamalarını yazınız.
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2]  dizisini Binary-Search-Tree aşamalarını yazınız.
 
 1) Root 7'dir.
 2) Root'un solunda 5 bulunur.
